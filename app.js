@@ -3,7 +3,7 @@ const yargs = require("yargs");
 const notes = require("./notes.js");
 const Argv = require("yargs");
 
-// customize yargs version
+// customize yargs version. Yargs helps you build interactive command line tools, by parsing arguments and generating an elegant user interface.
 yargs.version("1.1.0");
 
 // create add command
